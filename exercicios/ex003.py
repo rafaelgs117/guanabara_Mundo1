@@ -1,4 +1,4 @@
-#programa que le 2 numeros e msotra a soma entre eles
+#programa que le 2 numeros e mostra a soma entre eles
 
 n1 = int(input('Digite um numero: '))
 n2 = int(input('Digite outro numero: '))
