@@ -2,7 +2,7 @@
 #Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
 
 import random #importando a biblioteca random
-print('-'*12)
+print('-'*12)  #vai colocar - 12x
 aluno1 = input('Digite o nome do primeiro aluno: ')
 aluno2 = input('Digite o nome do segundo aluno: ')
 aluno3 = input('Digite o nome do terceiro aluno: ')
